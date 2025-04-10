@@ -4,3 +4,15 @@
     object-position: center;
     object-fit: cover;
 }
+
+.carousel{
+    position: relative;
+    display: flex;
+    align-items: center;
+}
+.userdetails{
+    position: absolute;
+    /* margin-left: 2rem; */
+    left: 30px;
+    z-index: 3;
+}
