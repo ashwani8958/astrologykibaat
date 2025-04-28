@@ -1,14 +1,29 @@
-.banner-img{
-    width: 100vw;
-    height: 80vh;
+/* .banner-img{
+    width: 100%;
+    height: 100%;
     object-position: center;
     object-fit: cover;
+} */
+
+.carousel-item{
+    width: 100vw;
+    height: 50vh;
 }
 
-.carousel{
-    position: relative;
-    display: flex;
-    align-items: center;
+.banner1{
+    background-image: url('../assets/rashiratna.png');
+    background-size: cover; 
+    background-position: center;
+}
+.banner2{
+    background-image: url("../assets/kundliService.jpg");
+    background-size: cover; 
+    background-position: center;
+}
+.banner3{
+    background-image: url("../assets/lalkitab.png");
+    background-size: cover; 
+    background-position: center;
 }
 .userdetails{
     position: absolute;
