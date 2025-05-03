@@ -12,25 +12,6 @@ a{
     text-decoration: none !important;
 }
 
-.banner-img{
-    width: 100%;
-    height: 100%;
-    object-position: center;
-    object-fit: cover;
-}
-
-.carousel-item{
-    width: 100vw;
-    height: 50vh;
-}
-
-.userdetails{
-    position: absolute;
-    /* margin-left: 2rem; */
-    left: 30px;
-    z-index: 3;
-}
-
 footer{
     background: #f1f1f1;
     width: 100%;
